@@ -13,4 +13,4 @@ Projektipäällikkö on kuin projektin "tuottaja". Hän vastaa projektin käytä
 
 Dev lead vastaa projektin teknisestä arkkitehtuurista ja teknisestä laadusta.
 
-![alt text](https://github.com/devgeniem/project-flow/blob/gh-pages/_site/images/projectflow.png "Project Flow")
+![Project Flow](https://github.com/devgeniem/project-flow/blob/gh-pages/_site/images/projectflow.png "Project Flow")
