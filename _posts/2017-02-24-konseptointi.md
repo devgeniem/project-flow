@@ -25,3 +25,5 @@ Käyttäjätietoutta ja käyttäjäpriorisointia hyväksi käyttäen luodaan pal
 ### Alustava sisällönsuunnittelu/kartoitus 
 
 Luotua rakennetta varten aloitetaan sisällönsuunnittelu ja mahdollisesti olemassa olevien sisältöjen kartoitus. Tämä on tärkeä vaihe, sillä suunnittelua ei voida aloittaa ilman riittävää tietoa tulevista sisällöistä. Varsinainen sisällönsuunnittelu voi jatkua myöhemmin, mutta raamit ja mielellään ainakin placeholder-sisällöt pitää saada käyttöön suunnitteluvaihetta varten.
+
+_Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
