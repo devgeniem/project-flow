@@ -8,7 +8,7 @@ order: 1
 
 ### Projektikortti 
 
-Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko service designer tai projektipäällikkö. 
+Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko Service Designer tai Project Manager. 
 
 ### Vaatimusmäärittely 
 
