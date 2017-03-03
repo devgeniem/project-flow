@@ -30,4 +30,4 @@ Valmisteluvaiheessa voidaan kartoittaa mahdolliset kilpailijat ja analysoida mit
 
 Olemassaoleva käyttäjädata käydään läpi valmisteluvaiheessa. Palvelua uudistettaessa voi olla hyvä tehdä käyttäjätutkimusta vanhalla palvelulla.
 
-**Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:** 
+_Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
