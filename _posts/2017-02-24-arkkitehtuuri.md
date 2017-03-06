@@ -8,14 +8,14 @@ order: 1
 
 ### Käyttäjätarinat
 
-
+Konseptointi- ja suunnitteluvaiheessa ilmentyneet käyttäjätarinat tarkennetaan sille tasolle, että datamalli voidaan tehdä. Käyttäjätarinohin määritellään hyväksymiskriteerit.
 
 ### Datamalli
 
-Tulevaa sivustoa/palvelua varten luodaan alustava datamalli. Datamallin kehitys jatkuu sprinteissä kun tiedot tarkentuvat.
+Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu kehityksen aikana kun tiedot tarkentuvat.
 
 ### Sprinttisuunnittelu
 
-Sovitaan sprintin pituus ja tehdään alustava sprinttisuunnittelu saatavilla olevien tietojen pohjalta.
+Sovitaan sprintin pituus ja tehdään alustava sprinttisuunnittelu saatavilla olevien tietojen pohjalta. Toteutus aikataulutetaan ja reusursoidaan.
 
 _Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
