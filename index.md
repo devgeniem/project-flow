@@ -15,4 +15,11 @@ Dev lead vastaa projektin teknisestä arkkitehtuurista ja teknisestä laadusta.
 
 ![Project Flow](images/projectflow.png "Project Flow")
 
-_Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
+### Termit
+
+issue = Jirassa oleva “tiketti”, joka voi olla esimerkiksi käyttäjätarina (user story), tehtävä (task) tai bugi (bug).
+sprintti = kehityssykli, tietty määrää aikaa jonka kuluessa tehdään etukäteen valitut ja suunnitellut työt. Kesto melko poikkeuksetta 2 viikkoa.
+QA = Quality Assurance. Laadunvarmistus, käytännössä testaus.
+käyttäjätarina = yhdellä lauseella kuvattu järjestelmän toiminnallisuus, jonka myös asiakas ymmärtää (ei teknistä jargonia)
+hyväksymiskriteerit = käyttäjätarinan vaatimukset, jotka on täytettävä ja pystyttävä demoamaan, esimerkiksi “- kenttään voi syöttää ainoastaan numeroita”
+taski = suoritettava työtehtävä, joka ei ole käyttäjätarina, esimerkiksi “Tuotantoympäristön konfigurointi”
