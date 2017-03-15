@@ -6,16 +6,14 @@ date: 2017-02-24 15:00:00
 order: 1
 ---
 
-### Käyttäjätarinat
+### Arkkitehtuuri
 
-Konseptointi- ja suunnitteluvaiheessa ilmentyneet käyttäjätarinat tarkennetaan sille tasolle, että datamalli voidaan tehdä. Käyttäjätarinohin määritellään hyväksymiskriteerit.
+Hyvän arkkitehtuurin merkitystä ei voi korostaa liiaksi. Dev lead tarvittaessa kehitystiimin kanssa suunnittelee arkkitehtuurin ja kuvaa sen karkealla tasolla. Mitä teknologioita käytetään, mikä keskustelee minkä kanssa.
 
 ### Datamalli
 
-Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu kehityksen aikana kun tiedot tarkentuvat.
+Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu kehityksen aikana kun tiedot tarkentuva.
 
 ### Sprinttisuunnittelu
 
-Sovitaan sprintin pituus ja tehdään alustava sprinttisuunnittelu saatavilla olevien tietojen pohjalta. Toteutus aikataulutetaan ja reusursoidaan.
-
-_Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
+Tehdään alustava sprinttisuunnittelu saatavilla olevien tietojen pohjalta. Toteutus aikataulutetaan ja resursoidaan. Proejktipäällikkä varaa resurssit myyntiresursoinnista ja Tempo kalenterista.
