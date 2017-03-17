@@ -30,9 +30,9 @@ Päivystäjän puhelin 020 735 3150
 4. Vastaa asiakkaalle (otettu heti työn alle, tutkitaan asiaa, lisätty työjonoon)
 - kts. Poikkeavat tavat kommunikoida (linkki)
 5. Luo issue Jiraan (kts. Tiketin luominen Jiraan)
-a. Jos palvelupyyntöä koskevalla projektilla on oma board Jirassa -> luo tiketti projektin boardille
-b. Jos palvelupyyntöä koskevalla projektilla ei ole omaa boardia Jirassa -> Luo tiketti Palvelu-boardillec. c.
-c. Nosta luomasi issue sprinttiin / boardille
+- Jos palvelupyyntöä koskevalla projektilla on oma board Jirassa -> luo tiketti projektin boardille
+- Jos palvelupyyntöä koskevalla projektilla ei ole omaa boardia Jirassa -> Luo tiketti Palvelu-boardille
+- Nosta luomasi issue sprinttiin / boardille
 6. Ilmoita kyseisestä projektista vastaavalle projektipäällikölle bugista/työpyynnöstä (kts. Projektien vastuutaulukko)
 7. Varmista issuelle tekijä TAI varmista, että projektipäälliköllä on pallo tekijästä ja aikataulusta
 8. Loggaa käytetty aika Jiraan (kts. Tuntien loggaus)
