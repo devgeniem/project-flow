@@ -19,7 +19,7 @@ Kanbanin käyttöä jatkokehityksessä tukee:
 #### Backlog
 - issueeseen lisätään hankitaan tarvittavat määritykset asiakkaalta ja työarvio, hyväksytetään toteutus asiakkaalla
 
-### Ready for development
+#### Ready for development
 
 - kun issue on tässä kohtaa, kehittäjä saa ottaa sen tekoon
 - kaikki vaadittava tieto on olemassa, työarvio tehty ja asiakas on kuitannut työarvion
