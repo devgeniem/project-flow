@@ -166,7 +166,9 @@ Tavoite:
 
 ### Dokumentointi
 
-Koodi -> Readme / Docs -versionhallinnassa.
+Kehittäjä luo teknisen dokumentointoinnin git-projektin juureen readme-tiedostoon. Dokumentointia tehdään koko teknisen toteutuksen ajan, sitä mukaa kun uusia toimintoja luodaan.
+
+Testaaja luo käyttöohjeen, joka on tarkoitettu ensisijaisesti asiakkaan käyttöön.
 
 
 
