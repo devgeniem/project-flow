@@ -98,7 +98,7 @@ Tiimi on vastuussa kollektiivisesti issueista ja niiden valmistumisesta. Muita k
 
 ### Palaverit
 
-#### Sprintin suunnittelu (sprint planning)
+#### Sprintin suunnittelu
 
 Kesto: 2-4 h  
 Ketä on paikalla: service designer + projektipäällikkö + kehitystiimi + asiakkaan edustaja
@@ -110,7 +110,7 @@ Tavoite: service designer + projektipäällikkö + + asiakkaan edustaja
 Töiden suunnittelu: kehitystiimi
 - tiimi suunnittelee käyttäjätarininoiden teknisen suunnittelu, purkaa tarinat subtaskeihin (kts. vaatimusmäärittelyt ja issuet) ja päivittää subtaskeille työarviot
 
-#### Daily scrum / Aamuscrum
+#### Kehitystiimin päivittäinen statuscheck
 
 Kesto: n.15min  
 Ketä on paikalla: projari + kehitystiimi
@@ -133,7 +133,7 @@ Projektipäällikkö päättää projektikohtaisesti onko tarvetta/mahdollisuutt
 
 Projektipäällikkö lähettää kehittäjille kalenterikutsun scrumeista.
 
-#### Sprint demo (katselmointi)
+#### Sprintin katselmointi
 
 Kesto: max 2-3h  
 Ketä on paikalla: projektipäällikkö + kehitystiimi + asiakkaan edustaja
@@ -144,7 +144,7 @@ Tarkoitus:
 
 Kehitystiimi valmistautuu huolella esittelemään tehdyn työn. Varmistaa, että käyttäjätarinan hyväksymiskriteerit täyttyvät ja ne pystytään demoamaan.
 
-#### Design review
+#### Design katselmointi
 
 Kesto: max 2h  
 Ketä on paikalla: service designer + kehitystiimi
