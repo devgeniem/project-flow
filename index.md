@@ -45,7 +45,7 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 #### Dokumenttipohjat
 
-Kun projekti alkaa, kopioi [project flow kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Nimeä kansio projektin nimellä. Muokkaa tiedostojen nimien alkuun projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
+Kun projekti alkaa, kopioi [project flow kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Siirrä kansio hakemistoon /Projektit. Nimeä kansio projektin nimellä. Muokkaa tiedostojen nimien alkuun projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
 
 #### Confluence-wiki ja checklistat
 
