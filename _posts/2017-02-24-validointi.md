@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Validointi"
-category: konseptointi-ja-suunnittelu
+category: konseptointi
 date: 2017-02-24 15:00:00
-order: 4
+order: 3
 ---
 
 ### Konseptin testaus

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sprintit"
+title: "Tekninen toteutus"
 category: kehitys
 date: 2017-02-24 15:00:00
 order: 2

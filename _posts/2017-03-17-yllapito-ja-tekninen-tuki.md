@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Huolenpito"
-category: kehitys
-date: 2017-02-24 15:00:00
-order: 4
+title: "Ylläpito ja tekninen tuki"
+category: huolenpito
+date: 2017-03-17 15:00:00
+order: 2
 ---
 
 
@@ -24,4 +24,3 @@ Päivystykseen voi olla yhteydessä, jos käyttäjällä on kysymyksiä palvelun
 Projektin jälkeinen kehitys jatkuu sopimuksen mukaan.
 
 _Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
-

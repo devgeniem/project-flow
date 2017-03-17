@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Valmistelu"
-category: konseptointi-ja-suunnittelu
+category: konseptointi
 date: 2017-02-24 15:00:00
 order: 1
 ---
