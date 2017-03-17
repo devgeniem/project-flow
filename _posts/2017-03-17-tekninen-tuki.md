@@ -37,3 +37,9 @@ Päivystäjän puhelin 020 735 3150
 7. Varmista issuelle tekijä TAI varmista, että projektipäälliköllä on pallo tekijästä ja aikataulusta
 8. Loggaa käytetty aika Jiraan (kts. Tuntien loggaus)
 9. Kuittaa asiakkaalle, kun vika on korjattu
+
+SupportBeessä Labels vasemmassa reunassa. Labelin voi drag & dropata paikoilleen.
+
+### Palvelupyynnön workflow
+
+Jokainen saapunut viesti luokitellaan mahdollisimman nopeasti labelilla, jotta nopealla silmäyksellä All -kohdasta nähdään tilanne.
