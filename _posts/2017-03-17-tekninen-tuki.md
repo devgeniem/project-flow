@@ -7,20 +7,33 @@ order: 2
 ---
 
 
-### Käyttöpalvelu
+### Päivystäjän rooli
 
-Julkaistu palvelu sijaitsee palvelinympäristössä, joka sisältää esimerkiksi jatkuvan monitoroinnin ja varmuuskopioinnin sopimuksen mukaan.
+Päätehtävä: ottaa vastaan asiakkaiden palvelupyynnöt ja löytää niille tekijä.
+EI tarkoita, että vastaanotettu pyyntö tehdään heti. Palvelupyyntö joko tehdään heti TAI projektipäällikkö aikatauluttaa työn.
 
-### Ylläpito
+#### Tuen työkalut
 
-Ylläpidossa huolehditaan esimerkisi versiopäivityksistä sopimuksen mukaan.
+SupportBee
+https://geniem.supportbee.com/tickets/all_tickets
 
-### Käyttäjätuki
+SupportBeehen tulee erilaisia yhteydenottoja. Päivystäjän tehtävänä on tunnistaa sisältö ja toimia sen mukaan.
+Tämän dokumentin tarkoituksena on antaa pohja yleisimmille tapauksille joita päivystäjä vastaanottaa.
 
-Päivystykseen voi olla yhteydessä, jos käyttäjällä on kysymyksiä palvelun käyttämisestä ja toiminnasta sopimuksen mukaan.
+Päivystäjän puhelin 020 735 3150
 
-### Pienkehitys
+### Palvelupyynnön workflow
 
-Projektin jälkeinen kehitys jatkuu sopimuksen mukaan.
-
-_Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
+1. Asiakkaalta vastaanotetaan palvelupyyntö
+2. Jos SupportBee, luokittele vian taso (kts. Vian luokittelu)
+3. Tunnista, onko kyseessä bugi vai työpyyntö
+4. Vastaa asiakkaalle (otettu heti työn alle, tutkitaan asiaa, lisätty työjonoon)
+- kts. Poikkeavat tavat kommunikoida (linkki)
+5. Luo issue Jiraan (kts. Tiketin luominen Jiraan)
+a. Jos palvelupyyntöä koskevalla projektilla on oma board Jirassa -> luo tiketti projektin boardille
+b. Jos palvelupyyntöä koskevalla projektilla ei ole omaa boardia Jirassa -> Luo tiketti Palvelu-boardillec. c.
+c. Nosta luomasi issue sprinttiin / boardille
+6. Ilmoita kyseisestä projektista vastaavalle projektipäällikölle bugista/työpyynnöstä (kts. Projektien vastuutaulukko)
+7. Varmista issuelle tekijä TAI varmista, että projektipäälliköllä on pallo tekijästä ja aikataulusta
+8. Loggaa käytetty aika Jiraan (kts. Tuntien loggaus)
+9. Kuittaa asiakkaalle, kun vika on korjattu
