@@ -7,7 +7,9 @@ order: 2
 ---
 ### Yleistä
 
-Asiakasprojektit toteutetaan yleensä sprinteissä. Riippuu projektin suuruudesta, montako sprinttiä on. Yhden sprintin pituus on 2 viikkoa.
+Projektit toteutetaan yleensä kehitysjaksoissa joita kutsutaan sprinteiksi. Yhden sprintin pituus on lähes poikkeuksetta 2 viikkoa. Sprinttien määrä riippuu projektin laajuudesta. 
+
+Projektin käyttäjätarinoiden ja muiden tehtävien hallintaan käytetään Jira-nimistä tehtävienhallintaohjelmistoa.
 
 ### Käyttäjätarinoiden tarkennus
 
@@ -17,7 +19,7 @@ Käyttäjätarina ilmaisee kuka, mitä, miten, miksi. Kehittäjät miettivät, m
 
 ### Käyttäjätarinoiden pilkkominen
 
-Mitä tarvitsee konkreettisesti tehdä, jotta käyttäjätarina toteutuu. Kehittäjät purkavat käyttäjätarinat subtaskeihin. Yksi subtaski on konkreettinen tehtävä, joka tarvitsee tehdä.
+Pilkkomisen tavoitteena on selvittää ja kirjata, mitä konkreettisesti tarvitsee tehdä, jotta käyttäjätarina toteutuu. Kehittäjät purkavat käyttäjätarinat Jiran subtaskeihin. Yksi subtaski on konkreettinen tehtävä, joka tarvitsee tehdä.
 
 Esimerkkikäyttäjätarina: "Ylläpitäjänä voin merkitä tilauksen noudetuksi, jotta tiedän mitkä tilaukset ovat vielä noutamatta."
 Subtaskit:
@@ -162,16 +164,9 @@ Tavoite:
 - päätetään mitkä parannukset toteutetaan ja sovitaan mitä tehdään jotta parannukset saavutetaan
 
 
-### Testaus
-
-Devaajan testaus:
-- testaa tekeleesi - “vaihda nappi siniseksi" -> tarkistat ui:sta että se muuttui siniseksi, ei riitä että vaihdat hex-koodin koodiin
-- yksikkötestien kirjoitus
-- koodin suorituskyky selaimessa, gt-metrix yms.
-
-QA tiimin testaus:
-- laite/selaintestaus (https://geniem.atlassian.net/wiki/display/CG/Selaimet+ja+laitteet+joilla+testataan)
-
 ### Dokumentointi
 
 Koodi -> Readme / Docs -versionhallinnassa.
+
+
+
