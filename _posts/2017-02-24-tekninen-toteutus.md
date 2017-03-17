@@ -63,7 +63,13 @@ Tiimi on vastuussa kollektiivisesti issueista ja niiden valmistumisesta. Muita k
 
 #### In Progress
 - parhaillaan teossa olevat issuet
-- otat yhden issuen työn alle, teet sen, ja sitten seuraava. ei roikoteta tässä montaa taski. Jos taskin eteneminen pysähtyy jostain syystä niin issuen voi siirtää esim Pending tilaan. 
+- otat yhden issuen työn alle, teet sen, ja sitten seuraava. ei roikoteta tässä montaa taski. Jos taskin eteneminen pysähtyy jostain syystä niin issuen voi siirtää esim Pending tilaan.
+- ennen siirtoa:
+-- Code review tilaan
+-- oma tuotos on testattu
+-- docs päivitetty
+-- testausohje lisätty taskiin
+-- tunnit logattu taskiin
 
 #### Code review
 - koodi on arvioitavana lead devaajalla
