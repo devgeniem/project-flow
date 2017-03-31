@@ -6,6 +6,17 @@ date: 2017-02-24 15:00:00
 order: 1
 ---
 
+### Kick-off
+
+Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin osallistuvat henkilöt sekä asiakkaan että Geniemin puolelta. Kick-offin asialista:
+
+- henkilöiden esittäytyminen
+- projektin tavoitteet lyhyesti
+- projektikortin täyttäminen
+- projektin aikataulun läpikäynti
+- projektikäytännöt
+
+
 ### Projektikortti 
 
 Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko Service Designer tai Project Manager. //todo linkki projektikortti templateen
