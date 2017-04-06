@@ -28,11 +28,9 @@ Subtaskit:
 
 ### Työarviot taskeihin
 
-Työarviot tehdään tunteina ja päivinä. Käytetään jompaa kumpaa seuraavista vaihtoehdoista:
+Työarviot tehdään tunteina / päivinä. Yksi tunti on pienin mahdollinen arvio. Taskin tekijä tekee itse taskin työarvion. Mikäli arvioija on eri kuin tekijä, tekijän pitää hyväksyä arvio. Eli ei niin että joku toinen devaaja sanoo "sinulla on tämän verran aikaa tähän taskiin".
 
-1. 1h 2h 3h 5h 8h (Fibonaccin kaava)
-
-2. 2h 4h 6h 1d 2d 4d
+1h 2h 4h 6h 1d 2d 4d
 
 Näin varmistetaan riittävä skaala, jotta hyvällä tuurilla saadaan paremmin paikkansa pitävät arviot. Määrittelyvaiheessa työarviot tehdään käyttäjätarina-tasolla. Sprint planningissä tiimi purkaa arviot tehtävä-tasolle.
 
