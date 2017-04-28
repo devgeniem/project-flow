@@ -15,11 +15,11 @@ After editing the page, you have to commit the changes. The changes are not merg
 You can add pages locally by cloning the repository and using the included page generator script.
 
 ```bash
-ruby bin/jekyll-page "{PAGE NAME}" {SECTION NAME} {FILE NAME} {MENU ORDER}
+ruby bin/jekyll-page "{PAGE NAME}" {FILE NAME} {SECTION NAME} {MENU ORDER}
 ```
 Example:
 ```bash
-ruby bin/jekyll-page "Component library" design component-library 5
+ruby bin/jekyll-page "Component library" component-library design 4
 ```
 
 The script makes a new file in the `_pages` folder and links it to a new post in the `_posts` folder with the following content:
