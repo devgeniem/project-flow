@@ -24,7 +24,7 @@
       json: "{{ site.baseurl }}/search.json",
       fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a><small> osiossa <strong>{category}</strong></small<div class="search-content" data-content={content}></div></li>',
-      noResultsText: 'Ei hakutuloksia! Yritä etsiä uudelleen tai tee issue<a href="{{site.github_url}}/issues/"> Githubissa</a>.'
+      noResultsText: 'Ei hakutuloksia! Yritä etsiä uudelleen tai tee issue<a href="https://github.com/{{site.github.repo}}/issues/"> Githubissa</a>.'
     });
   });
 })(jQuery);
