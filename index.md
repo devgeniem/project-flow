@@ -13,17 +13,17 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 ### Roolit
 
-**Myyjä**
+**Myyjä** on asiakkaan ensimmäinen kontakti. Myyjä hoitaa projektin sopimuksen.
 
 **Service Designer** toimii kuin projektin "ohjaajana". Hän vastaa asiakkaan kanssa konseptista, kehitettävän palvelun ilmeestä ja käytettävyydestä läpi projektin.
 
-**Projektipäällikkö** on kuin projektin "tuottaja". Hän vastaa projektin käytännön asioista, että projektilla on budjetti, selkeyttää SD:n kanssa asiakkaan vaatimuksia ja käyttäjätarinoita, ja varmistaa, että kehitystiimillä on kaikki tarvittava projektin toteuttamiseen.
+**Projektipäällikkö** on kuin projektin "tuottaja". Hän vastaa projektin käytännön asioista, kuten budjetista ja aikataulutuksesta. Projektipäällikkö selkeyttää service designerin kanssa asiakkaan vaatimuksia ja käyttäjätarinoita sekä varmistaa, että kehitystiimillä on kaikki tarvittava projektin toteuttamiseen.
 
 **Dev lead** vastaa projektin teknisestä arkkitehtuurista ja teknisestä laadusta.
 
-**Kehittäjä**
+**Kehittäjä** eli koodaaja vastaa teknisestä toteutuksesta.
 
-**Testaaja**
+**Testaaja** varmistaa laadun projektin aikana sekä ennen julkaisua. Testaaja vastaa laite- ja selaintestauksesta sekä toiminnallisuuksien testauksesta.
 
 ### Termit
 
@@ -47,8 +47,8 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 Kun projekti alkaa, kopioi [project flow kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Siirrä kansio hakemistoon /Projektit. Nimeä kansio projektin nimellä. Muokkaa tiedostojen nimien alkuun projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
 
-#### Confluence-wiki ja checklistat
+#### Confluence-wiki
 
-Luo projektille space Confluenceen kopioimalla [Projektipohja](https://geniem.atlassian.net/wiki/spaces/PROJA/overview) ja nimeä se projektin nimellä. Projektipohja sisältää myös [checklistat](https://geniem.atlassian.net/wiki/spaces/PROJA/pages/38043700/Checklistat).
+Luo projektille space Confluenceen kopioimalla [Projektipohja](https://geniem.atlassian.net/wiki/spaces/PROJA/overview) ja nimeä se projektin nimellä. 
 
 
