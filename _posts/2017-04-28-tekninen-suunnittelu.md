@@ -2,7 +2,7 @@
 layout: page
 title: "Tekninen suunnittelu"
 category: kehitys
-date: 2017-02-24 15:00:00
+date: 2017-04-28 13:22:24
 order: 1
 ---
 

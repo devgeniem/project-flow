@@ -2,12 +2,13 @@
 layout: page
 title: "Tekninen toteutus"
 category: kehitys
-date: 2017-02-24 15:00:00
+date: 2017-04-28 13:30:52
 order: 2
 ---
+
 ### Yleistä
 
-Projektit toteutetaan yleensä kehitysjaksoissa joita kutsutaan sprinteiksi. Yhden sprintin pituus on lähes poikkeuksetta 2 viikkoa. Sprinttien määrä riippuu projektin laajuudesta. 
+Projektit toteutetaan yleensä kehitysjaksoissa joita kutsutaan sprinteiksi. Yhden sprintin pituus on lähes poikkeuksetta 2 viikkoa. Sprinttien määrä riippuu projektin laajuudesta.
 
 Projektin käyttäjätarinoiden ja muiden tehtävien hallintaan käytetään Jira-nimistä tehtävienhallintaohjelmistoa.
 
@@ -15,7 +16,7 @@ Projektin käyttäjätarinoiden ja muiden tehtävien hallintaan käytetään Jir
 
 Projektipäällikkö siirtää käyttäjätarinat ja muut tehtävät Jiraan. Tämän jälkeen kaikki päivitykset tapahtuvat Jiraan. Uusin ja ajankohtaisin tieto on Jirassa.
 
-Käyttäjätarina ilmaisee kuka, mitä, miten, miksi. Kehittäjät miettivät, miten tämä kuvailtu toiminto kaikkine määrityksineen saavutetaan. 
+Käyttäjätarina ilmaisee kuka, mitä, miten, miksi. Kehittäjät miettivät, miten tämä kuvailtu toiminto kaikkine määrityksineen saavutetaan.
 
 ### Käyttäjätarinoiden pilkkominen
 
@@ -34,7 +35,7 @@ Työarviot tehdään tunteina / päivinä. Yksi tunti on pienin mahdollinen arvi
 
 Näin varmistetaan riittävä skaala, jotta hyvällä tuurilla saadaan paremmin paikkansa pitävät arviot. Määrittelyvaiheessa työarviot tehdään käyttäjätarina-tasolla. Sprint planningissä tiimi purkaa arviot tehtävä-tasolle.
 
-Käyttäjätarinalla on työarvio, esimerkiksi 8h. Jotta tiedät paljon aikaa voit käyttää omaan osuuteesi, työarviot puretaan subtaskeihin. 
+Käyttäjätarinalla on työarvio, esimerkiksi 8h. Jotta tiedät paljon aikaa voit käyttää omaan osuuteesi, työarviot puretaan subtaskeihin.
 
 Esimerkki:
 - Luo API endpoint 4h
@@ -104,7 +105,7 @@ Tiimi on vastuussa kollektiivisesti issueista ja niiden valmistumisesta. Muita k
 
 #### Sprintin suunnittelu
 
-Kesto: 2-4 h  
+Kesto: 2-4 h
 Ketä on paikalla: service designer + projektipäällikkö + kehitystiimi + asiakkaan edustaja
 
 Tavoite: service designer + projektipäällikkö + + asiakkaan edustaja
@@ -116,7 +117,7 @@ Töiden suunnittelu: kehitystiimi
 
 #### Kehitystiimin päivittäinen statuscheck
 
-Kesto: n.15min  
+Kesto: n.15min
 Ketä on paikalla: projari + kehitystiimi
 
 Mitä:
@@ -139,7 +140,7 @@ Projektipäällikkö lähettää kehittäjille kalenterikutsun scrumeista.
 
 #### Sprintin katselmointi
 
-Kesto: max 2-3h  
+Kesto: max 2-3h
 Ketä on paikalla: projektipäällikkö + kehitystiimi + asiakkaan edustaja
 
 Tarkoitus:
@@ -150,7 +151,7 @@ Kehitystiimi valmistautuu huolella esittelemään tehdyn työn. Varmistaa, että
 
 #### Design katselmointi
 
-Kesto: max 2h  
+Kesto: max 2h
 Ketä on paikalla: service designer + kehitystiimi
 
 Tarkoitus:
@@ -159,7 +160,7 @@ Tarkoitus:
 
 #### Retro
 
-Kesto: max 1h  
+Kesto: max 1h
 Ketä on paikalla: projektipäällikkö + service designer + kehitystiimi + asiakkaan edustaja
 
 Tavoite:
@@ -167,12 +168,8 @@ Tavoite:
 - mikä meni hyvin, missä olisi parantamisen varaa
 - päätetään mitkä parannukset toteutetaan ja sovitaan mitä tehdään jotta parannukset saavutetaan
 
-
 ### Dokumentointi
 
 Kehittäjä luo teknisen dokumentointoinnin git-projektin juureen readme-tiedostoon. Dokumentointia tehdään koko teknisen toteutuksen ajan, sitä mukaa kun uusia toimintoja luodaan.
 
 Testaaja luo käyttöohjeen, joka on tarkoitettu ensisijaisesti asiakkaan käyttöön.
-
-
-

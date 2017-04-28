@@ -2,7 +2,7 @@
 layout: page
 title: "Validointi"
 category: konseptointi
-date: 2017-02-24 15:00:00
+date: 2017-04-28 13:18:00
 order: 3
 ---
 
@@ -18,4 +18,4 @@ Valmista konseptia ja suunnitelmaa peilataan ensimmäisen vaiheen vaatimuksiin j
 
 Dev Lead varmistaa, että konsepti on teknisesti toteutettavissa valituilla teknologioilla.
 
-_Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_ 
+_Kaikki mainitut dokumenttipohjat ja materiaalit löytyvät Projektimalli-kansiosta:_

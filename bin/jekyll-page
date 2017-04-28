@@ -27,8 +27,10 @@ end
 parser.parse!
 
 title = ARGV[0]
-category = ARGV[1]
-filename = ARGV[2]
+filename = ARGV[1]
+category = ARGV[2]
+order = ARGV[3]
+
 
 # Resolve any relative links
 BASE_DIR = File.expand_path(options[:path])
@@ -88,8 +90,8 @@ layout: page
 title: \"#{title}\"
 category: #{category}
 date: #{now}
+order: #{order}
 ---
-
 
 END
 
