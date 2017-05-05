@@ -26,6 +26,8 @@ Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin o
 - projektin aikataulun läpikäynti
 - projektikäytännöt
 
+Kick-off palaverissa sovitaan kommunikaatiokäytännöt, perustetaan projektille Slack-kanava online-keskustelulle sekä Google Docs projektikansio. Projektille perustetaan Jira-projekti ja sovitaan projektin palaverikäytännöt, onsite- / etätyökäytännöt ja raportointi.
+
 ### Sisältöauditointi
 
 Erityisesti julkaisujärjestelmäprojekteissa ja viestinnällisissä verkkopalveluissa tehdään sisältöauditointi, jossa selvitetään mitä sisältöä asiakkaalla on tai miten asiakas on ajatellut sisällöntuotannon tapahtuvan. Linkki kysymyslistaan https://docs.google.com/a/geniem.com/document/d/1wkuI4KjYpkAss3Qh-tms49tHPcklsl-THTjHWZ9i_9I/edit?usp=sharing
