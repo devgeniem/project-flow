@@ -18,11 +18,11 @@ Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin o
 
 ### Projektikortti
 
-Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko Service Designer tai Project Manager. //todo linkki projektikortti templateen
+Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko Service Designer tai Project Manager. 
 
 ### Vaatimusmäärittely
 
-Projektikortin jälkeen täytetään vaatimusmäärittely, joka on useimmissa tapauksissa tarjouksessa, mutta se on hyvä täyttää omaksi erilliseksi dokumentikseen. //todo linkki vaatimusmäärittely templateen
+Projektikortin jälkeen täytetään vaatimusmäärittely, joka on useimmissa tapauksissa tarjouksessa, mutta se on hyvä täyttää omaksi erilliseksi dokumentikseen.
 
 ### Sisältöauditointi
 
@@ -30,4 +30,4 @@ Erityisesti WordPress-projekteissa ja viestinnällisissä verkkopalveluissa tehd
 
 ### Budjettiraami ja laskutus
 
-Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen, budjetin ja valitsevat laskutuksesta vastaavan. Sovitaan myös miten lisätyöt laskutetaan. //todo linkki budjettiraami templateen
+Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen, budjetin ja valitsevat laskutuksesta vastaavan. Sovitaan myös miten lisätyöt laskutetaan.
