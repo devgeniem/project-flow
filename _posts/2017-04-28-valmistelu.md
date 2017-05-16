@@ -8,9 +8,9 @@ order: 1
 
 ### Vaatimusmäärittely
 
-Projektin suunnittelu alkaa vaatimusmäärittelyllä, joka on useimmissa tapauksissa tehty jo tarjousvaiheessa. Tässä vaiheessa tarkennetaan vaatimusmäärittely joka on hyvä täyttää omaksi erilliseksi dokumentikseen. Tämä tehdään hyvin vahvasti yhteistyössä asiakkaan kanssa ja mielellään ainakin osin kasvokkain. Vaatimusmäärittely täytetään käyttäen Google Docs pohjaan. 
+Projektin suunnittelu alkaa vaatimusmäärittelyllä, joka useimmissa tapauksissa on tehty jo tarjousvaiheessa. Tässä vaiheessa vaatimusmäärittely tarkennetaan ja täytetään omaksi erilliseksi dokumentikseen. Tämä tehdään hyvin vahvasti yhteistyössä asiakkaan kanssa ja mielellään ainakin osin kasvokkain. Vaatimusmäärittely täytetään käyttäen Google Docs pohjaan. 
 
-Vaatimusmäärittelyssä on hyvä erottaa toiminnalliset (FR) ja ei-toiminnalliset (NFR) vaatimukset. Esimerkkinä toiminnallisesta vaatimuksesta on "uutislistaus, josta käyttäjä voi klikata uutista ja päätyä yksittäiselle uutissivulle". Ei-toiminnallinen vaatimus on esimerkiksi suorituskyky, "sovelluksen pitää käynnistyä alle 4:ssä sekunnissa".
+Vaatimusmäärittelyssä on hyvä erottaa toiminnalliset (FR, Functional Requirement) ja ei-toiminnalliset (NFR, Non-Functional Requirement) vaatimukset. Esimerkkinä toiminnallisesta vaatimuksesta on "uutislistaus, josta käyttäjä voi klikata uutista ja päätyä yksittäiselle uutissivulle". Ei-toiminnallinen vaatimus on esimerkiksi suorituskyky, "sovelluksen pitää käynnistyä alle 4:ssä sekunnissa".
 
 ### Projektikortti
 
@@ -26,7 +26,7 @@ Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin o
 - projektin aikataulun läpikäynti
 - projektikäytännöt
 
-Kick-off palaverissa sovitaan kommunikaatiokäytännöt, perustetaan projektille Slack-kanava online-keskustelulle sekä Google Docs projektikansio. Projektille perustetaan Jira-projekti ja sovitaan projektin palaverikäytännöt, onsite- / etätyökäytännöt ja raportointi.
+Kick-off palaverissa sovitaan kommunikaatiokäytännöt, palaverikäytännöt, onsite- ja etätyökäytännöt sekä raportointi.
 
 ### Sisältöauditointi
 
@@ -34,7 +34,7 @@ Erityisesti julkaisujärjestelmäprojekteissa ja viestinnällisissä verkkopalve
 
 ### Sopimus, budjettiraami ja laskutus
 
-Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen, budjetin ja valitsevat laskutuksesta vastaavan. Sovitaan muutoksenhallintaprosessi sekä miten lisätyöt laskutetaan.
+Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen ja budjetin sekä päättävät, kumpi vastaa laskutuksesta. Sovitaan muutoksenhallintaprosessi sekä miten lisätyöt laskutetaan.
 
 ### Liittyvät tiedostot:
 
