@@ -41,6 +41,13 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 **taski** = suoritettava työtehtävä, joka ei ole käyttäjätarina, esimerkiksi “Tuotantoympäristön konfigurointi”
 
+### Työvälineet
+
+Jira
+Slack
+Confluence
+Google Docs
+
 ### Materiaalit
 
 #### Dokumenttipohjat
