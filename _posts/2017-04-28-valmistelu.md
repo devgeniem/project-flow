@@ -30,8 +30,22 @@ Kick-off palaverissa sovitaan kommunikaatiokäytännöt, perustetaan projektille
 
 ### Sisältöauditointi
 
-Erityisesti julkaisujärjestelmäprojekteissa ja viestinnällisissä verkkopalveluissa tehdään sisältöauditointi, jossa selvitetään mitä sisältöä asiakkaalla on tai miten asiakas on ajatellut sisällöntuotannon tapahtuvan. Linkki kysymyslistaan https://docs.google.com/a/geniem.com/document/d/1wkuI4KjYpkAss3Qh-tms49tHPcklsl-THTjHWZ9i_9I/edit?usp=sharing
+Erityisesti julkaisujärjestelmäprojekteissa ja viestinnällisissä verkkopalveluissa tehdään sisältöauditointi, jossa selvitetään mitä sisältöä asiakkaalla on tai miten asiakas on ajatellut sisällöntuotannon tapahtuvan. 
 
 ### Sopimus, budjettiraami ja laskutus
 
-Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen, budjetin ja valitsevat laskutuksesta vastaavan. Sovitaan myös miten lisätyöt laskutetaan.
+Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen, budjetin ja valitsevat laskutuksesta vastaavan. Sovitaan muutoksenhallintaprosessi sekä miten lisätyöt laskutetaan.
+
+### Liittyvät tiedostot:
+
+[Vaatimusmäärittely](https://drive.google.com/open?id=1aUEZr80AkhvVQJTsEQTMVYfq_3h44IaDOnTAbA3id8I)
+
+[Projektikortti](https://drive.google.com/open?id=1faGR-7ES1gVkKjDtOYPcp9jDYU2rgvvLiuEbfGrzOFg)
+
+[Kick-off - palaveriesityksen Keynote-pohja](https://drive.google.com/open?id=0B_OZw4sEmTtzWkFpNWVKSU1OMUk)
+
+[Sisältöauditointi](https://drive.google.com/open?id=1wkuI4KjYpkAss3Qh-tms49tHPcklsl-THTjHWZ9i_9I)
+
+[Budjettiraami ja laskutus](https://drive.google.com/open?id=12WEg3fSyhLp1jBrKvHTUctboPESgCjLfneZyWQ8XsXo)
+
+
