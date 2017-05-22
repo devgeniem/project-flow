@@ -8,7 +8,7 @@ order: 3
 
 ### Konseptin testaus
 
-Konseptin ja prototyypin valmistuttua testataan tuloksia oikeilla käyttäjillä. Muutama käyttäjä riittää. Löydettyihin epäkohtiin puututaan ja tehdään tarvittavat muutokset suunnitelmaan. Testauksen järjestää ja suunnittelee Testing Officer tai Service Designer.
+Konseptin ja prototyypin valmistuttua testataan tuloksia oikeilla käyttäjillä. Muutama käyttäjä riittää. Löydettyihin epäkohtiin puututaan ja tehdään tarvittavat muutokset suunnitelmaan. Testauksen järjestää ja suunnittelee Service Designer.
 
 ### Peilaus vaatimuksiin ja budjettiin
 
