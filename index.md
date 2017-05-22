@@ -5,7 +5,7 @@ category: front-page
 published: true
 ---
 
-Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakkaille dokumentaatioksi Geniem Oy:n sisäisesti kehitetystä projektimallista.
+Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakkaille tiedoksi Geniem Oy:n sisäisesti kehitetystä projektimallista.
 
 
 ![Project Flow](images/project-flow.png "Project Flow")
