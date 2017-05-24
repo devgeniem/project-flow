@@ -19,11 +19,12 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 **Projektipäällikkö** on kuin projektin "tuottaja". Hän vastaa projektin käytännön asioista, kuten budjetista ja aikataulutuksesta. Projektipäällikkö selkeyttää service designerin kanssa asiakkaan vaatimuksia ja käyttäjätarinoita sekä varmistaa, että kehitystiimillä on kaikki tarvittava projektin toteuttamiseen.
 
-**Dev lead** vastaa projektin teknisestä arkkitehtuurista ja teknisestä laadusta.
+**Dev Lead** vastaa projektin teknisestä arkkitehtuurista ja teknisestä laadusta.
 
 **Kehittäjä** eli koodaaja vastaa teknisestä toteutuksesta.
 
 **Testaaja** varmistaa laadun projektin aikana sekä ennen julkaisua. Testaaja vastaa laite- ja selaintestauksesta sekä toiminnallisuuksien testauksesta.
+
 
 ### Termit
 
@@ -55,7 +56,7 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 #### Dokumenttipohjat
 
-Kun projekti alkaa, kopioidaan [project flow kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Kansio siirretään hakemistoon /Projektit. Kansio nimetään projektin nimellä. Tiedostojen nimien alkuun muokataan projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
+Kun projekti alkaa, kopioidaan [Project flow -kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Kansio siirretään hakemistoon /Projektit. Kansio nimetään projektin nimellä. Tiedostojen nimien alkuun muokataan projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
 
 #### Confluence-wiki
 

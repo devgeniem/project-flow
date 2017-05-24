@@ -8,7 +8,7 @@ order: 1
 
 ### Arkkitehtuuri
 
-Hyvän arkkitehtuurin merkitystä ei voi korostaa liiaksi. Dev lead suunnittelee tarvittaessa kehitystiimin kanssa arkkitehtuurin ja kuvaa sen karkealla tasolla: mitä teknologioita käytetään, mikä keskustelee minkä kanssa.
+Dev Lead suunnittelee tarvittaessa yhteistyössä kehitystiimin kanssa arkkitehtuurin ja kuvaa sen karkealla tasolla: mitä teknologioita käytetään, mikä keskustelee minkä kanssa.
 
 ### Datamalli
 
@@ -17,3 +17,7 @@ Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu 
 ### Sprinttisuunnittelu
 
 Kehitystiimi tekee yhteistyössä projektipäällikön kanssa alustavan sprinttisuunnittelun saatavilla olevien tietojen pohjalta. Suunnittelussa arvioidaan tarvittavien sprinttien määrä ja määritellään karkealla tasolla missä järjestyksessä asiat tehdään. Projektipäällikkö aikatauluttaa työt ja hoitaa resursoinnin.
+
+### Liittyvät tiedostot:
+
+[Tekninen suunnitelma](https://docs.google.com/a/geniem.com/spreadsheets/d/17o1RFdVU_35-4AeTk2b97nJ8bRmRSZiJIY2KntiHN_4/edit?usp=sharing)

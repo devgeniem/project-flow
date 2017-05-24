@@ -12,6 +12,8 @@ Projektin suunnittelu alkaa vaatimusmäärittelyllä, joka useimmissa tapauksiss
 
 Vaatimusmäärittelyssä on hyvä erottaa toiminnalliset (FR, Functional Requirement) ja ei-toiminnalliset (NFR, Non-Functional Requirement) vaatimukset. Esimerkkinä toiminnallisesta vaatimuksesta on "uutislistaus, josta käyttäjä voi klikata uutista ja päätyä yksittäiselle uutissivulle". Ei-toiminnallinen vaatimus on esimerkiksi suorituskyky, "sovelluksen pitää käynnistyä alle 4:ssä sekunnissa".
 
+Projektin laajuudesta riippuen käytetään joko normaalia vaatimusmäärittely-pohjaa tai laajaa vaatimusmäärittelyä.
+
 ### Projektikortti
 
 Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko Service Designer tai Project Manager. 
@@ -46,6 +48,8 @@ Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen ja budjetin s
 
 [Vaatimusmäärittely](https://drive.google.com/open?id=1aUEZr80AkhvVQJTsEQTMVYfq_3h44IaDOnTAbA3id8I)
 
+[Laaja vaatimusmäärittely](https://drive.google.com/open?id=1dJZqP0R6k4Vg09scmHYFzJCpkWWEj4CXCOlj9uXaAv0)
+
 [Projektikortti](https://drive.google.com/open?id=1faGR-7ES1gVkKjDtOYPcp9jDYU2rgvvLiuEbfGrzOFg)
 
 [Kick-off - palaveriesityksen Keynote-pohja](https://drive.google.com/open?id=0B_OZw4sEmTtzWkFpNWVKSU1OMUk)
@@ -54,4 +58,7 @@ Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen ja budjetin s
 
 [Budjettiraami ja laskutus](https://drive.google.com/open?id=12WEg3fSyhLp1jBrKvHTUctboPESgCjLfneZyWQ8XsXo)
 
+[Business Model Canvas](https://drive.google.com/open?id=1BlChAEy0uFQlwo4OdorT6pz9GDktNcp9-L8P3quIG5A)
+
+[Muutostenhallinta](https://drive.google.com/open?id=1_piMjSLH5GtMKjFLguLR_cY2gmI4q4SIRwkl7Ec8vMI)
 

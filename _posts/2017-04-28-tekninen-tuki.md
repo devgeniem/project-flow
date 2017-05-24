@@ -6,39 +6,28 @@ date: 2017-04-28 13:35:25
 order: 2
 ---
 
-### Päivystäjän rooli
+### Tuen työkalut
 
-Päätehtävä: ottaa vastaan asiakkaiden palvelupyynnöt ja löytää niille tekijä.
-EI tarkoita, että vastaanotettu pyyntö tehdään heti. Palvelupyyntö joko tehdään heti TAI projektipäällikkö aikatauluttaa työn.
+Sähköpostitse lähetetyt palvelupyynnöt saapuvat [SupportBeehen](https://geniem.supportbee.com/tickets/all_tickets)
 
-#### Tuen työkalut
+Palvelupyyntöjä vastaanotetaan myös puhelimitse.
 
-SupportBee
-https://geniem.supportbee.com/tickets/all_tickets
+Kaikista palvelupyynnöistä luodaan tiketit Jiraan.
 
-SupportBeehen tulee erilaisia yhteydenottoja. Päivystäjän tehtävänä on tunnistaa sisältö ja toimia sen mukaan.
-Tämän dokumentin tarkoituksena on antaa pohja yleisimmille tapauksille joita päivystäjä vastaanottaa.
-
-Päivystäjän puhelin 020 735 3150
 
 ### Palvelupyynnön workflow
 
 1. Asiakkaalta vastaanotetaan palvelupyyntö
-2. Jos SupportBee, luokittele vian taso (kts. Vian luokittelu)
+2. Jos SupportBee, luokittele vian taso
 3. Tunnista, onko kyseessä bugi vai työpyyntö
 4. Vastaa asiakkaalle (otettu heti työn alle, tutkitaan asiaa, lisätty työjonoon)
-- kts. Poikkeavat tavat kommunikoida (linkki)
-5. Luo issue Jiraan (kts. Tiketin luominen Jiraan)
-- Jos palvelupyyntöä koskevalla projektilla on oma board Jirassa -> luo tiketti projektin boardille
-- Jos palvelupyyntöä koskevalla projektilla ei ole omaa boardia Jirassa -> Luo tiketti Palvelu-boardille
-- Nosta luomasi issue sprinttiin / boardille
-6. Ilmoita kyseisestä projektista vastaavalle projektipäällikölle bugista/työpyynnöstä (kts. Projektien vastuutaulukko)
+5. Luo issue Jiraan
+6. Ilmoita kyseisestä projektista vastaavalle projektipäällikölle bugista/työpyynnöstä
 7. Varmista issuelle tekijä TAI varmista, että projektipäälliköllä on pallo tekijästä ja aikataulusta
-8. Loggaa käytetty aika Jiraan (kts. Tuntien loggaus)
+8. Loggaa käytetty aika Jiraan
 9. Kuittaa asiakkaalle, kun vika on korjattu
 
-SupportBeessä Labels vasemmassa reunassa. Labelin voi drag & dropata paikoilleen.
 
-### Palvelupyynnön workflow
+### Liittyvät tiedostot:
 
-Jokainen saapunut viesti luokitellaan mahdollisimman nopeasti labelilla, jotta nopealla silmäyksellä All -kohdasta nähdään tilanne.
+[Päivystäjän käsikirja](https://docs.google.com/a/geniem.com/document/d/1_GG-3gqcCi4h6ZGkq7FcNjw9MryvYxdXXLtk5gyoyRI/edit?usp=sharing)
