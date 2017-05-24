@@ -6,7 +6,7 @@ date: 2017-04-28 13:16:06
 order: 1
 ---
 
-### Vaatimusmäärittely
+## Vaatimusmäärittely
 
 Projektin suunnittelu alkaa vaatimusmäärittelyllä, joka useimmissa tapauksissa on tehty jo tarjousvaiheessa. Tässä vaiheessa vaatimusmäärittely tarkennetaan ja täytetään omaksi erilliseksi dokumentikseen. Tämä tehdään hyvin vahvasti yhteistyössä asiakkaan kanssa ja mielellään ainakin osin kasvokkain. Vaatimusmäärittely täytetään käyttäen Google Docs pohjaan. 
 
@@ -14,11 +14,11 @@ Vaatimusmäärittelyssä on hyvä erottaa toiminnalliset (FR, Functional Require
 
 Projektin laajuudesta riippuen käytetään joko normaalia vaatimusmäärittely-pohjaa tai laajaa vaatimusmäärittelyä.
 
-### Projektikortti
+## Projektikortti
 
 Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko Service Designer tai Project Manager. 
 
-### Kick-off
+## Kick-off
 
 Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin osallistuvat henkilöt sekä asiakkaan että Geniemin puolelta. Kick-offin asialista:
 
@@ -36,15 +36,15 @@ Kick-off palaverissa sovitaan ja käydään läpi seuraavat projektikäytännöt
 - muutostenhallinta
 - raportointi
 
-### Sisältöauditointi
+## Sisältöauditointi
 
 Erityisesti julkaisujärjestelmäprojekteissa ja viestinnällisissä verkkopalveluissa tehdään sisältöauditointi, jossa selvitetään mitä sisältöä asiakkaalla on tai miten asiakas on ajatellut sisällöntuotannon tapahtuvan. 
 
-### Sopimus, budjettiraami ja laskutus
+## Sopimus, budjettiraami ja laskutus
 
 Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen ja budjetin sekä päättävät, kumpi vastaa laskutuksesta. Sovitaan muutoksenhallintaprosessi sekä miten lisätyöt laskutetaan.
 
-### Liittyvät tiedostot:
+## Liittyvät tiedostot:
 
 [Vaatimusmäärittely](https://drive.google.com/open?id=1aUEZr80AkhvVQJTsEQTMVYfq_3h44IaDOnTAbA3id8I)
 

@@ -6,7 +6,7 @@ date: 2017-04-28 13:35:25
 order: 2
 ---
 
-### Tuen työkalut
+## Tuen työkalut
 
 Sähköpostitse lähetetyt palvelupyynnöt saapuvat [SupportBeehen](https://geniem.supportbee.com/tickets/all_tickets)
 
@@ -15,7 +15,7 @@ Palvelupyyntöjä vastaanotetaan myös puhelimitse.
 Kaikista palvelupyynnöistä luodaan tiketit Jiraan.
 
 
-### Palvelupyynnön workflow
+## Palvelupyynnön workflow
 
 1. Asiakkaalta vastaanotetaan palvelupyyntö
 2. Jos SupportBee, luokittele vian taso
@@ -28,6 +28,6 @@ Kaikista palvelupyynnöistä luodaan tiketit Jiraan.
 9. Kuittaa asiakkaalle, kun vika on korjattu
 
 
-### Liittyvät tiedostot:
+## Liittyvät tiedostot:
 
 [Päivystäjän käsikirja](https://docs.google.com/a/geniem.com/document/d/1_GG-3gqcCi4h6ZGkq7FcNjw9MryvYxdXXLtk5gyoyRI/edit?usp=sharing)
