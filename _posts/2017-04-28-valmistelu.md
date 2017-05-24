@@ -26,7 +26,13 @@ Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin o
 - projektin aikataulun läpikäynti
 - projektikäytännöt
 
-Kick-off palaverissa sovitaan kommunikaatiokäytännöt, palaverikäytännöt, onsite- ja etätyökäytännöt sekä raportointi.
+Kick-off palaverissa sovitaan ja käydään läpi seuraavat projektikäytännöt:
+- projektityökalut
+- yhteydenpitotyökalut ja tavat
+- palaverikäytännöt (katselmoinnit, retrot)
+- onsite- ja etätyökäytännöt
+- muutostenhallinta
+- raportointi
 
 ### Sisältöauditointi
 

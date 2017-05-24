@@ -43,19 +43,22 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 ### Työvälineet
 
-Jira
-Slack
-Confluence
-Google Docs
+**Jira** on tehtävienhallintaan ja projektin seuraamiseen käytettävä työkalu. Kaikki projektin tehtävät ja käyttäjätarinat sijaitsevat Jirassa. Ne etenevät boardeiksi kutsutuissa näkymissä sitä mukaa, kun tehtävät edistyvät. Työtunnit logataan Jiraan.
+
+**Confluence** on wikityökalu, joka sisältää pääasiallisesti projektien perustiedot ja sisäisiä ohjeita.
+
+**Google Docs** sisältää kaiken projektikohtaisen materiaalin. 
+
+**Slack** on väline tiimityöskentelyyn ja päivittäiseen kommunikaatioon. Jokaisella projektilla on oma kanavansa. Asiakkaat kutsutaan liittymään Geniemin Slack-tiimiin. Näin varmistetaan nopea ja selkeä kommunikaatio kehittäjien ja asiakkaan edustajien välillä. [Ohje Slackin käyttöön](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides)
 
 ### Materiaalit
 
 #### Dokumenttipohjat
 
-Kun projekti alkaa, kopioi [project flow kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Siirrä kansio hakemistoon /Projektit. Nimeä kansio projektin nimellä. Muokkaa tiedostojen nimien alkuun projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
+Kun projekti alkaa, kopioidaan [project flow kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Kansio siirretään hakemistoon /Projektit. Kansio nimetään projektin nimellä. Tiedostojen nimien alkuun muokataan projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
 
 #### Confluence-wiki
 
-Luo projektille space Confluenceen kopioimalla [Projektipohja](https://geniem.atlassian.net/wiki/spaces/PROJA/overview) ja nimeä se projektin nimellä. 
+Projektille luodaan space Confluenceen kopioimalla [Projektipohja](https://geniem.atlassian.net/wiki/spaces/PROJA/overview) ja nimeämällä se projektin nimellä. 
 
 
