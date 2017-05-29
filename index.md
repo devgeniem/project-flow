@@ -42,15 +42,13 @@ Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakka
 
 **taski** = suoritettava työtehtävä, joka ei ole käyttäjätarina, esimerkiksi “Tuotantoympäristön konfigurointi”
 
+<!---
 ## Työvälineet
-
 **Jira** on tehtävienhallintaan ja projektin seuraamiseen käytettävä työkalu. Kaikki projektin tehtävät ja käyttäjätarinat sijaitsevat Jirassa. Ne etenevät boardeiksi kutsutuissa näkymissä sitä mukaa, kun tehtävät edistyvät. Työtunnit logataan Jiraan.
-
 **Confluence** on wikityökalu, joka sisältää pääasiallisesti projektien perustiedot ja sisäisiä ohjeita.
-
 **Google Docs** sisältää kaiken projektikohtaisen materiaalin. 
-
 **Slack** on väline tiimityöskentelyyn ja päivittäiseen kommunikaatioon. Jokaisella projektilla on oma kanavansa. Asiakkaat kutsutaan liittymään Geniemin Slack-tiimiin. Näin varmistetaan nopea ja selkeä kommunikaatio kehittäjien ja asiakkaan edustajien välillä. [Ohje Slackin käyttöön](https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides)
+-->
 
 ## Materiaalit
 
