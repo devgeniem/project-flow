@@ -14,7 +14,7 @@ Projektin käyttäjätarinoiden ja muiden tehtävien hallintaan käytetään Jir
 
 ## Käyttäjätarinoiden tarkennus
 
-Projektipäällikkö siirtää käyttäjätarinat ja muut tehtävät Jiraan. Tämän jälkeen kaikki päivitykset tapahtuvat Jiraan. Uusin ja ajankohtaisin tieto on Jirassa.
+Projektipäällikkö siirtää käyttäjätarinat ja muut tehtävät vaatimusmäärittelyistä Jiraan. Tämän jälkeen kaikki päivitykset tapahtuvat Jiraan. Uusin ja ajankohtaisin tieto on Jirassa.
 
 Käyttäjätarina ilmaisee kuka, mitä, miten, miksi. Kehittäjät miettivät, miten tämä kuvailtu toiminto kaikkine määrityksineen saavutetaan.
 
