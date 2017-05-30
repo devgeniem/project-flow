@@ -8,7 +8,7 @@ published: true
 Tämä ohjesivusto on tarkoitettu Geniemin projektien ohjenuoraksi sekä asiakkaille tiedoksi Geniem Oy:n sisäisesti kehitetystä projektimallista.
 
 
-![Project Flow](images/project-flow.png "Project Flow")
+![Project Flow](images/project-flow.jpeg "Project Flow")
 
 
 ## Roolit
