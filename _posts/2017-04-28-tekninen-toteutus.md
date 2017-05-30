@@ -12,7 +12,7 @@ Projektit toteutetaan yleensä kehitysjaksoissa joita kutsutaan sprinteiksi. Yhd
 
 Projektin käyttäjätarinoiden ja muiden tehtävien hallintaan käytetään Jira-nimistä tehtävienhallintaohjelmistoa.
 
-## Käyttäjätarinoiden tarkennus
+## Vaatimusten tarkennus
 
 Projektipäällikkö siirtää käyttäjätarinat ja muut tehtävät vaatimusmäärittelyistä Jiraan. Tämän jälkeen kaikki päivitykset tapahtuvat Jiraan. Uusin ja ajankohtaisin tieto on Jirassa.
 
