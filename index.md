@@ -20,7 +20,7 @@ Vastaamista muutokseen enemmän kuin pitäytymistä suunnitelmassa*
 *Jälkimmäisilläkin asioilla on arvoa, mutta
 arvostamme ensiksi mainittuja enemmän.*
 
-Agile Manifesto lähde: http://agilemanifesto.org/iso/fi/manifesto.html
+[Linkki Agile Manifestoon](http://agilemanifesto.org/iso/fi/manifesto.html)
 
 
 ![Project Flow](images/project-flow.jpeg "Project Flow")
