@@ -99,16 +99,16 @@ Tiimi on vastuussa kollektiivisesti issueista ja niiden valmistumisesta. Muita k
 - kun issue on tässä tilassa, devaaja on deployannut sen tuotantoon
 - tästä käydään asiakkaan kanssa läpi issuet sprintin lopetuksessa
 - jos tässä vaiheessa vielä vikaa -> reworkkiin
-- jos selkeesti lisäfeature, tehdään uusi issue backlogiin
+- jos selkeästi lisäfeature, tehdään uusi issue backlogiin
 
 ## Palaverit
 
 ### Sprintin suunnittelu
 
-Kesto: 2-4 h
-Ketä on paikalla: service designer + projektipäällikkö + kehitystiimi + asiakkaan edustaja
+**Kesto:** 2-4 h  
+**Ketä on paikalla:** service designer + projektipäällikkö + kehitystiimi + asiakkaan edustaja
 
-Tavoite: service designer + projektipäällikkö + + asiakkaan edustaja
+Tavoite: service designer + projektipäällikkö + asiakkaan edustaja
 - mitä pystytään tekemään backlogista seuraavan sprintin aikana (valitaan käyttäjätarinat + muut mahdolliset muut issuet (kuten tekniset taskit) sprinttiin)
 - mitä tarvitsee tehdä jotta sprintin tavoiteltu tuotos saavutetaan
 
@@ -117,8 +117,8 @@ Töiden suunnittelu: kehitystiimi
 
 ### Kehitystiimin päivittäinen statuscheck
 
-Kesto: n.15min
-Ketä on paikalla: projari + kehitystiimi
+**Kesto:** n.15min  
+**Ketä on paikalla:** projektipäällikkö + kehitystiimi
 
 Mitä:
 - koko tiimi kokoontuu ja puhuu keskenään.
@@ -140,19 +140,19 @@ Projektipäällikkö lähettää kehittäjille kalenterikutsun scrumeista.
 
 ### Sprintin katselmointi
 
-Kesto: max 2-3h
-Ketä on paikalla: projektipäällikkö + kehitystiimi + asiakkaan edustaja
+**Kesto:** max 2-3h  
+**Ketä on paikalla:** projektipäällikkö + kehitystiimi + asiakkaan edustaja
 
 Tarkoitus:
 - tiimi kertoo mitkä tehtävät on tehty ja demoaa ne
 - pohdinta mitä tehdään seuraavaksi (antaa pohjaa sprint planningiin)
 
-Kehitystiimi valmistautuu huolella esittelemään tehdyn työn. Varmistaa, että käyttäjätarinan hyväksymiskriteerit täyttyvät ja ne pystytään demoamaan.
+Kehitystiimi valmistautuu huolella esittelemään tehdyn työn. Varmista, että käyttäjätarinan hyväksymiskriteerit täyttyvät ja pystyt demoamaan ne.
 
 ### Design katselmointi
 
-Kesto: max 2h
-Ketä on paikalla: service designer + kehitystiimi
+**Kesto:** max 2h  
+**Ketä on paikalla:** service designer + kehitystiimi
 
 Tarkoitus:
 - service designer käy läpi tiimin kanssa tehdyt ominaisuudet
@@ -160,8 +160,8 @@ Tarkoitus:
 
 ### Retro
 
-Kesto: max 1h
-Ketä on paikalla: projektipäällikkö + service designer + kehitystiimi + asiakkaan edustaja
+**Kesto:** max 1h  
+**Ketä on paikalla:** projektipäällikkö + service designer + kehitystiimi + asiakkaan edustaja
 
 Tavoite:
 - selvittää miten edellinen sprintti sujui, koskien ihmisiä, suhteita, prosesseja ja työkaluja
