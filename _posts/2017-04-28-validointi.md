@@ -20,4 +20,4 @@ Dev Lead varmistaa, että konsepti on teknisesti toteutettavissa valituilla tekn
 
 ## Liittyvät tiedostot:
 
-[Käyttäjätestaus](https://docs.google.com/a/geniem.com/document/d/19LzcyehHBwc-N-EEZofhKej-rucgdgwQyZQxviWGSqc/edit?usp=sharing)
+[Konseptin testaus](https://docs.google.com/a/geniem.com/document/d/19LzcyehHBwc-N-EEZofhKej-rucgdgwQyZQxviWGSqc/edit?usp=sharing)
