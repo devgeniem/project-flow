@@ -8,19 +8,21 @@ order: 2
 
 ## Yleistä
 
-Projektit toteutetaan yleensä kehitysjaksoissa joita kutsutaan sprinteiksi. Yhden sprintin pituus on lähes poikkeuksetta 2 viikkoa. Sprinttien määrä riippuu projektin laajuudesta.
+Projektit toteutetaan yleensä kehitysjaksoissa joita kutsutaan sprinteiksi. Yhden sprintin pituus on lähes poikkeuksetta 2 viikkoa. Sprinttien määrä riippuu projektin laajuudesta. 
 
 Projektin käyttäjätarinoiden ja muiden tehtävien hallintaan käytetään Jira-nimistä tehtävienhallintaohjelmistoa.
 
-## Vaatimusten tarkennus
+## Käyttäjätarinat ja taskit
 
 Projektipäällikkö siirtää käyttäjätarinat ja muut tehtävät vaatimusmäärittelyistä Jiraan. Tämän jälkeen kaikki päivitykset tapahtuvat Jiraan. Uusin ja ajankohtaisin tieto on Jirassa.
 
 Käyttäjätarina ilmaisee kuka, mitä, miten, miksi. Kehittäjät miettivät, miten tämä kuvailtu toiminto kaikkine määrityksineen saavutetaan.
 
-## Käyttäjätarinoiden pilkkominen
+Kaikkea tehtävää työtä ei voida ilmaista käyttäjätarinoilla. Esimerkiksi tekniset työt (kuten Tuotantoympäristön pystytys) lisätään Jiraan taskeina.
 
-Pilkkomisen tavoitteena on selvittää ja kirjata, mitä konkreettisesti tarvitsee tehdä, jotta käyttäjätarina toteutuu. Kehittäjät purkavat käyttäjätarinat Jiran subtaskeihin. Yksi subtaski on konkreettinen tehtävä, joka tarvitsee tehdä.
+### Käyttäjätarinoiden pilkkominen
+
+Käyttäjätarinat tarkennetaan ja pilkotaan sprintin aloituksessa. Pilkkomisen tavoitteena on selvittää ja kirjata, mitä konkreettisesti tarvitsee tehdä, jotta käyttäjätarina toteutuu. Kehittäjät purkavat käyttäjätarinat Jiran subtaskeihin. Yksi subtaski on konkreettinen tehtävä, joka tarvitsee tehdä.
 
 Esimerkkikäyttäjätarina: "Ylläpitäjänä voin merkitä tilauksen noudetuksi, jotta tiedän mitkä tilaukset ovat vielä noutamatta."
 Subtaskit:
