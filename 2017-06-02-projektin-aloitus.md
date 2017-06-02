@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Projektin aloitus
+title: "Projektin aloitus"
 category: front-page
 published: true
+order: 2
 ---
 
 

@@ -3,6 +3,7 @@ layout: page
 title: Johdanto
 category: front-page
 published: true
+order: 1
 ---
 
 Tervetuloa tutustumaan Geniem Project Flow -projektimalliin. Täällä avataan Geniemillä käytössä olevaa projektimallia sen termistöineen, rooleineen, työvälineineen ja vaiheineen. Pyrkimyksenämme on ollut luoda projektimallista sellainen, että sitä seuraamalla saavutetaan aina onnistunut ja kaikkia osapuolia hyvin palveleva lopputulos, mutta sitä on myös helppo mukauttaa projektikohtaisesti projektin tavoitteisiin ja resursseihin sopivaksi. Emme ole halunneet luoda prosessja tai malleja vain niiden itsensä vuoksi, vaan palvelemaan kokonaisuutta ja mukautumaan sopivassa suhteessa projektin luonteen mukaiseksi.
