@@ -9,16 +9,19 @@ Tervetuloa tutustumaan Geniem Project Flow -projektimalliin. Täällä avataan G
 
 Sivusto on tarkoitettu ohjenuoraksi niin Geniemin henkilöstölle, kumppaneille kuin myös asiakkaalle. Ketterän kehityksen periaatteiden mukaisesti kehitämme myös projektimalliamme jatkuvasti, mutta voimme toisaalta sitoutua toimimaan myös pitkissä projekteissa asiakkaan kanssa sovitulla tavalla. Mikäli projektimalliin tulee uudistuksia, joiden uskomme palvelevan kokonaisuutta, tuomme niitä myös aktiivisesti esiin.
 
+
+
 Agile Manifeston sanoin:
-Yksilöitä ja kanssakäymistä enemmän kuin menetelmiä ja työkaluja
+
+*Yksilöitä ja kanssakäymistä enemmän kuin menetelmiä ja työkaluja
 Toimivaa ohjelmistoa enemmän kuin kattavaa dokumentaatiota
 Asiakasyhteistyötä enemmän kuin sopimusneuvotteluja
-Vastaamista muutokseen enemmän kuin pitäytymistä suunnitelmassa
+Vastaamista muutokseen enemmän kuin pitäytymistä suunnitelmassa*
 
-Jälkimmäisilläkin asioilla on arvoa, mutta
-arvostamme ensiksi mainittuja enemmän. 
+*Jälkimmäisilläkin asioilla on arvoa, mutta
+arvostamme ensiksi mainittuja enemmän.*
 
-lähde: http://agilemanifesto.org/iso/fi/manifesto.html
+Agile Manifesto lähde: http://agilemanifesto.org/iso/fi/manifesto.html
 
 
 ![Project Flow](images/project-flow.jpeg "Project Flow")
