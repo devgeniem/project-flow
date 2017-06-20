@@ -14,6 +14,11 @@ Vaatimusmäärittelyssä on hyvä erottaa toiminnalliset (FR, Functional Require
 
 Projektin laajuudesta riippuen käytetään joko normaalia vaatimusmäärittely-pohjaa tai laajaa vaatimusmäärittelyä.
 
+**Tarvittavat roolit:**
+Myyjä 
+Projektipäällikkö
+
+
 ## Projektikortti
 
 Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se tässä vaiheessa tiedetään. Projektikortin täyttämisessä on mukana myyjä sekä joko Service Designer tai Project Manager. 
@@ -36,13 +41,26 @@ Kick-off palaverissa sovitaan ja käydään läpi seuraavat projektikäytännöt
 - muutostenhallinta
 - raportointi
 
+**Tarvittavat roolit:**
+Service Designer 
+Dev lead 
+Projektipäällikkö 
+(Myyjä)
+
 ## Sisältöauditointi
 
 Erityisesti julkaisujärjestelmäprojekteissa ja viestinnällisissä verkkopalveluissa tehdään sisältöauditointi, jossa selvitetään mitä sisältöä asiakkaalla on tai miten asiakas on ajatellut sisällöntuotannon tapahtuvan. 
 
+**Tarvittavat roolit:**
+Service Designer
+
 ## Sopimus, budjettiraami ja laskutus
 
 Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen ja budjetin sekä päättävät, kumpi vastaa laskutuksesta. Sovitaan muutoksenhallintaprosessi sekä miten lisätyöt laskutetaan.
+
+**Tarvittavat roolit:**
+Myyjä 
+Projektipäällikkö
 
 ## Liittyvät tiedostot:
 

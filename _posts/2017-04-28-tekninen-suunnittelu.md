@@ -10,13 +10,25 @@ order: 1
 
 Dev Lead suunnittelee tarvittaessa yhteistyössä kehitystiimin kanssa arkkitehtuurin ja kuvaa sen karkealla tasolla: mitä teknologioita käytetään, mikä keskustelee minkä kanssa.
 
+**Tarvittavat roolit:**
+Dev Lead
+Kehittäjä
+
 ## Datamalli
 
-Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu kehityksen aikana, kun tiedot tarkentuva.
+Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu kehityksen aikana, kun tiedot tarkentuvat. 
+
+**Tarvittavat roolit:**
+Dev Lead
+
 
 ## Sprinttisuunnittelu
 
 Kehitystiimi tekee yhteistyössä projektipäällikön kanssa alustavan sprinttisuunnittelun saatavilla olevien tietojen pohjalta. Suunnittelussa arvioidaan tarvittavien sprinttien määrä ja määritellään karkealla tasolla missä järjestyksessä asiat tehdään. Projektipäällikkö aikatauluttaa työt ja hoitaa resursoinnin.
+
+**Tarvittavat roolit:**
+Projektipäällikkö
+Kehitystiimi
 
 ## Liittyvät tiedostot:
 
