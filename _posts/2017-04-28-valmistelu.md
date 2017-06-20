@@ -63,7 +63,7 @@ Service Designer
 Myyjä ja projektipäällikkö käyvät läpi projektin sopimuksen ja budjetin sekä päättävät, kumpi vastaa laskutuksesta. Sovitaan muutoksenhallintaprosessi sekä miten lisätyöt laskutetaan.
 
 **Tarvittavat roolit:**  
-Myyjä 
+Myyjä  
 Projektipäällikkö
 
 ## Liittyvät tiedostot:
