@@ -29,7 +29,7 @@ Subtaskit:
 - Luo API endpoint
 - Luo käyttöliittymä
 
-**Tarvittavat roolit:**
+**Tarvittavat roolit:**  
 Kehitystiimi
 
 ## Työarviot taskeihin

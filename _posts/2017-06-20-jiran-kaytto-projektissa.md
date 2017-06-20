@@ -6,7 +6,7 @@ date: 2017-06-20 16:02:54
 order: 3
 ---
 
-## Jiran käyttö projektissa
+## Yleistä
 
 - Ennen kuin alat tehdä issueta, varmista että siinä on työarvio. Lisää, jollei ole.
 - Jos/kun huomaat ettet ehdi tehdä issueta ajassa joka siihen on arvioitu (Original Estimate), ilmoita tästä projektipäällikölle
