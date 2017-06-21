@@ -3,7 +3,7 @@ layout: page
 title: "Jiran käyttö projektissa"
 category: kehitys
 date: 2017-06-20 16:02:54
-order: 3
+order: 4
 ---
 
 ## Yleistä
