@@ -15,3 +15,7 @@ Kun projekti alkaa, kopioidaan [Project flow -kansio](https://drive.google.com/d
 ### Confluence-wiki
 
 Projektille luodaan space Confluenceen kopioimalla [Projektipohja](https://geniem.atlassian.net/wiki/spaces/PROJA/overview) ja nimeämällä se projektin nimellä. 
+
+### Jira
+
+Jiraan luodaan uusi projekti sekä board. Noudata ohjetta [Uuden projektin ja boardin lisääminen Jiraan](https://geniem.atlassian.net/wiki/pages/viewpage.action?pageId=84770845)
