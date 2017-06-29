@@ -85,6 +85,9 @@ Jatkokehitysprojekteissa on käytössä Kanban board. Kanbanin käyttöä jatkok
 - parhaillaan teossa olevat issuet
 - otat yhden issuen työn alle, teet sen, ja sitten seuraava. ei roikoteta tässä montaa issueta. Jos taskin eteneminen pysähtyy jostain syystä, siirrä issue Pending-tilaan ja kirjaa syy kommenttiin.
 
+### Code review
+- koodi on arvioitavana lead devaajalla
+
 ### Pending
 
 - on jokin este, jonka vuoksi issueta ei voi edistää (esim. puuttuu tietoa asiakkaalta, tai issue odottaa toisen devaajan työpanosta, tai kaksi issueta joista toinen odottaa toisen valmistumista)
