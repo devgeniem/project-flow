@@ -56,11 +56,12 @@ Tiimi on vastuussa kollektiivisesti issueista ja niiden valmistumisesta. Muita k
 ### Ready for Live
 - issuet on testattu ja ne saa deployata tuotantoversioon
 
-### Done
+### Closed
 - kun issue on tässä tilassa, devaaja on deployannut sen tuotantoon
 - tästä käydään asiakkaan kanssa läpi issuet sprintin lopetuksessa
 - jos tässä vaiheessa vielä vikaa -> reworkkiin
 - jos selkeästi lisäfeature, tehdään uusi issue backlogiin
+- issue voidaan siirtää Closed-tilaan myös muussa tilanteessa, esimerkiksi päätettäessä ettei kyseistä toimintoa toteuteta
 
 ## Jatkokehityksen Jira Workflow
 
@@ -119,8 +120,9 @@ Jatkokehitysprojekteissa on käytössä Kanban board. Kanbanin käyttöä jatkok
 - asiakas on hyväksynyt issuen
 - issue on valmis vietäväksi tuotantoon
 
-### Done
+### Closed
 
 - kun issue on tässä tilassa, kehittäjä on päivittänyt sen tuotantoon
+- issue voidaan siirtää Closed-tilaan myös muussa tilanteessa, esimerkiksi päätettäessä ettei kyseistä toimintoa toteuteta
 
 
