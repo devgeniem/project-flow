@@ -74,7 +74,7 @@ Jatkokehitysprojekteissa on käytössä Kanban board. Kanbanin käyttöä jatkok
 
 ### Backlog
 
-- issueeseen lisätään hankitaan tarvittavat määritykset asiakkaalta ja työarvio, hyväksytetään toteutus asiakkaalla
+- issueeseen lisätään tarvittavat määritykset asiakkaalta ja työarvio, hyväksytetään toteutus asiakkaalla
 
 ### Ready for development
 
