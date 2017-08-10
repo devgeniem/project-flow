@@ -10,7 +10,7 @@ order: 1
 
 ### Dokumenttipohjat
 
-Kun projekti alkaa, kopioidaan [Project flow -kansio](https://drive.google.com/drive/u/0/folders/0B_OZw4sEmTtzRmJhc3M1UGEtdGM) Google Docsissa. Kansio siirretään hakemistoon /Projektit. Kansio nimetään projektin nimellä. Tiedostojen nimien alkuun muokataan projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
+Kun projekti alkaa, kopioidaan [Project flow docs -kansio](https://drive.google.com/drive/u/0/folders/0B-xyajTo2HQMMy1nbGtfMEYtRjA) Google Docsissa. Kansio siirretään hakemistoon /Projektit. Kansio nimetään projektin nimellä. Tiedostojen nimien alkuun muokataan projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
 
 **Tarvittavat roolit:**  
 Projektipäällikkö 
