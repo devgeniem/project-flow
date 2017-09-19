@@ -58,7 +58,7 @@ Testaaja luo käyttöohjeen, joka on tarkoitettu ensisijaisesti asiakkaan käytt
 
 **Sprintin retrospektiivi:** Sprinttien lopuksi pidetään lyhyt retrospektiivi, jossa käydään läpi mikä meni sprintin aikana hyvin ja mitä voisi tehdä paremmin. Koko tiimi saa antaa palautetta sekä vastaanottaa palautetta toisiltaan ja asiakkaalta.
 
-### Projektin antaminen ja saaminen projektin loppuessa:
+### Palautteen antaminen ja saaminen projektin loppuessa:
 
 **Sisäinen retrospektiivi:** Projektin loppumisen jälkeen tiimi kokoontuu pitämään koko projektia koskevan retrospektiivin. Käydään läpi mikä meni projektissa hyvin ja mitä olisi voinut tehdä paremmin (ja miten). Retrospektiivistä kirjataan aina kooste.
 
