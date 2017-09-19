@@ -49,3 +49,21 @@ Käyttäjätarinaan saa jättää myös aikaa. Käyttäjätarinan koko työmää
 Kehittäjä luo teknisen dokumentointoinnin git-projektin juureen readme-tiedostoon. Dokumentointia tehdään koko teknisen toteutuksen ajan, sitä mukaa kun uusia toimintoja luodaan.
 
 Testaaja luo käyttöohjeen, joka on tarkoitettu ensisijaisesti asiakkaan käyttöön.
+
+## Palaute
+
+### Palautteen antaminen ja saaminen projektin aikana:
+
+**Statuscheckit + code review:** Kehittäjät saavat teknistä palautetta päivittäisten statuscheckkien sekä code reviewn kautta.
+
+**Sprintin retrospektiivi:** Sprinttien lopuksi pidetään lyhyt retrospektiivi, jossa käydään läpi mikä meni sprintin aikana hyvin ja mitä voisi tehdä paremmin. Koko tiimi saa antaa palautetta sekä vastaanottaa palautetta toisiltaan ja asiakkaalta.
+
+### Projektin antaminen ja saaminen projektin loppuessa:
+
+**Sisäinen retrospektiivi:** Projektin loppumisen jälkeen tiimi kokoontuu pitämään koko projektia koskevan retrospektiivin. Käydään läpi mikä meni projektissa hyvin ja mitä olisi voinut tehdä paremmin (ja miten). Retrospektiivistä kirjataan aina kooste.
+
+**Vertaispalaute:** Projektin lopuksi jokainen tiimin jäsen antaa palautetta jokaiselle tiimin jäsenelle. Projektipäällikkö kokoaa palautteet ja käy läpi palautteet jokaisen tiimin jäsenen kanssa henkilökohtaisesti. Projektipäällikkö käsittelee oman saadun  palautteensa toisen projektipäällikön kanssa.
+
+**Tekninen retrospektiivi:** Dev leadit pitävät keskenään teknisen retron. Ei tarvetta pienimmissä projekteissa. Tavoitteena on dev leadien kehittyminen.
+
+
