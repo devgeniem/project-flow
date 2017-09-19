@@ -27,13 +27,25 @@ Valmisteluvaiheessa täytetään projektille projektikortti siltä osin, kuin se
 Myyjä  
 Service Designer / Projektipäällikkö
 
-## Kick-off
+## Sisäinen kick-off
 
-Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin osallistuvat henkilöt sekä asiakkaan että Geniemin puolelta. Kick-offin asialista:
+Sisäiseen kick-offiin osallistuvat kaikki projektiin osallistuva henkilöt, myös myyjä. Max kesto 1h. Tavoitteena on infota tiimiä projektista ja keskustella yhdessä projektista.
 
+Osallistujat lukevat projektikortin itsenäisesti läpi ennen sisäistä kick-offia.
+
+Asialista:
+- roolien ja vastuiden läpikäynti (projektipäällikkö, dev lead, service designer, kehittäjät)
+- projektipäällikkö / myyjä esittelee alustavan aikataulun
+- mitä riskejä projektissa mahdollisesti on ja miten ne ennakoidaan
+
+## Yhteinen kick-off
+
+Kick-off on projektin aloitustapaaminen, jossa ovat paikalla kaikki projektiin osallistuvat henkilöt sekä asiakkaan että Geniemin puolelta. 
+
+Kick-offin asialista:
 - henkilöiden esittäytyminen
 - projektin tavoitteet lyhyesti
-- projektikortin täyttäminen
+- projektikortin täyttäminen loppuun
 - projektin aikataulun läpikäynti
 - projektikäytännöt
 
