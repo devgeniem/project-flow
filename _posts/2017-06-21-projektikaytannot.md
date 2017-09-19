@@ -66,4 +66,6 @@ Testaaja luo käyttöohjeen, joka on tarkoitettu ensisijaisesti asiakkaan käytt
 
 **Tekninen retrospektiivi:** Dev leadit pitävät keskenään teknisen retron. Ei tarvetta pienimmissä projekteissa. Tavoitteena on dev leadien kehittyminen.
 
+## Liittyvät tiedostot:
 
+[Vertaispalautelomake](https://docs.google.com/forms/d/15uehUjCHss__CdUZTdGEJP3tFxIe8RwW0O9O3IFyitY/edit)
