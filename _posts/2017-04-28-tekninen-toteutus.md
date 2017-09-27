@@ -90,6 +90,22 @@ Tarkoitus:
 - service designer käy läpi tiimin kanssa tehdyt ominaisuudet
 - antaa palautetta ja ohjaa kehitystä
 
+### Code review
 
+**Kesto:** ei tiettyä aikaa, jatkuva prosessi
+**Ketä on paikalla:** lead developer
 
+Tarkoitus:
+- lead developer käy tehdyn koodin läpi ja tarkastaa laadun
+- ei ota kantaa siihen onko toiminto tehty vaatimusten mukaisesti
+
+Code review prosessi:
+
+1. Luo pull request githubissa.
+2. Kopioi pull requestin linkki ja tee siitä todo #wp-code-review -kanavalle Slackissa (/todo http…)
+3. Assignaa todo, mikäli tiedossa kenen pitää tehdä review, muutoin poolin jäsenet koppaavat reviewn pikimmiten
+4. Kun review on tehty, katselmoija merkkaa todon valmiiksi (klikkaa Complete)
+5. Todo lähettää notifikaation todon tekijälle
+6. Uusi kierros, jos muutoksia
+7. Kun review hyväksytty, taski liikkuu boardilla ja merget käytäntöjen mukaisesti
 
