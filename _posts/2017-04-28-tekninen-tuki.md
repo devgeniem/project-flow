@@ -25,5 +25,5 @@ Kaikista palvelupyynnöistä luodaan tiketit tehtävienhallintajärjestelmään.
 6. Varmistetaan tiketille tekijä
 7. Kuittaa asiakkaalle, kun vika on korjattu
 
-Päivystäjällä on käytössään [päivystäjän käsikirja](https://docs.google.com/document/d/1_GG-3gqcCi4h6ZGkq7FcNjw9MryvYxdXXLtk5gyoyRI/edit#heading=h.1jxk4mi0jnhm), joka toimii ohjenuorana viikoittain vaihtuvalle päivystäjälle ja takaa yhtenäiset toimintatavat.
+Päivystäjällä on käytössään [päivystäjän ohje](https://geniem.atlassian.net/wiki/spaces/ASUP/pages/117637168/P+ivyst+j+n+ohje), joka toimii ohjenuorana viikoittain vaihtuvalle päivystäjälle ja takaa yhtenäiset toimintatavat.
 
