@@ -86,6 +86,8 @@ Projektipäällikkö
 
 [Projektikortti](https://drive.google.com/open?id=1faGR-7ES1gVkKjDtOYPcp9jDYU2rgvvLiuEbfGrzOFg)
 
+[Sisäinen kick-off - Keynote-pohja](https://drive.google.com/a/geniem.com/file/d/0B_OZw4sEmTtzakZFV2hvazFfYW8/view?usp=sharing)
+
 [Kick-off - palaveriesityksen Keynote-pohja](https://drive.google.com/open?id=0B_OZw4sEmTtzWkFpNWVKSU1OMUk)
 
 [Sisältöauditointi](https://drive.google.com/open?id=1wkuI4KjYpkAss3Qh-tms49tHPcklsl-THTjHWZ9i_9I)
