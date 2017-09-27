@@ -6,20 +6,17 @@ date: 2017-04-28 13:22:24
 order: 1
 ---
 
-## Arkkitehtuuri
+## Tekninen suunnittelu
 
-Dev Lead suunnittelee tarvittaessa yhteistyössä kehitystiimin kanssa arkkitehtuurin ja kuvaa sen karkealla tasolla: mitä teknologioita käytetään, mikä keskustelee minkä kanssa.
+Tekninen suunnittelu sisältää arkkitehtuurin ja datamallin suunnittelun.
+
+Dev Lead suunnittelee tarvittaessa yhteistyössä kehitystiimin kanssa arkkitehtuurin ja kuvaa sen karkealla tasolla: mitä teknologioita käytetään, mikä keskustelee minkä kanssa. Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu kehityksen aikana, kun tiedot tarkentuvat. 
+
+Tekninen suunnitelma tehdään projektin git-repositoryn /docs-hakemistoon readme-tiedostoon.
 
 **Tarvittavat roolit:**  
 Dev Lead  
-Kehittäjä
-
-## Datamalli
-
-Tulevaa toteutusta varten luodaan alustava datamalli. Datamallin kehitys jatkuu kehityksen aikana, kun tiedot tarkentuvat. 
-
-**Tarvittavat roolit:**  
-Dev Lead
+Kehittäjä 
 
 
 ## Sprinttisuunnittelu
@@ -29,7 +26,3 @@ Kehitystiimi tekee yhteistyössä projektipäällikön kanssa alustavan sprintti
 **Tarvittavat roolit:**  
 Projektipäällikkö  
 Kehitystiimi
-
-## Liittyvät tiedostot:
-
-[Tekninen suunnitelma](https://docs.google.com/a/geniem.com/spreadsheets/d/17o1RFdVU_35-4AeTk2b97nJ8bRmRSZiJIY2KntiHN_4/edit?usp=sharing)
