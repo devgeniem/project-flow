@@ -84,7 +84,7 @@ Projektipäällikkö
 
 [Laaja vaatimusmäärittely](https://drive.google.com/open?id=1dJZqP0R6k4Vg09scmHYFzJCpkWWEj4CXCOlj9uXaAv0)
 
-[Projektikortti](https://drive.google.com/open?id=1faGR-7ES1gVkKjDtOYPcp9jDYU2rgvvLiuEbfGrzOFg)
+[Projektikortti](https://docs.google.com/a/geniem.com/document/d/1bYbXM-JPFxk1FkZYu_Yoz7XDelMOUAKCu6QJlY3EKIA/edit?usp=sharing)
 
 [Sisäinen kick-off - Keynote-pohja](https://drive.google.com/a/geniem.com/file/d/0B_OZw4sEmTtzakZFV2hvazFfYW8/view?usp=sharing)
 
