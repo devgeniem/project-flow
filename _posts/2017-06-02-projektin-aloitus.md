@@ -14,12 +14,13 @@ Kun projekti alkaa, kopioidaan [Project flow docs -kansio](https://drive.google.
 
 Kopioi jokaiseen projektiin vähintään nämä pohjat:
 
-[Projektikortti](https://drive.google.com/open?id=1faGR-7ES1gVkKjDtOYPcp9jDYU2rgvvLiuEbfGrzOFg)  
+[Projektikortti](https://docs.google.com/a/geniem.com/document/d/1bYbXM-JPFxk1FkZYu_Yoz7XDelMOUAKCu6QJlY3EKIA/edit?usp=sharing)  
+[Checklistat](https://docs.google.com/a/geniem.com/spreadsheets/d/1tBdkWpx6NgdFcreJQCV3VNfas7D_UmRgJI7xQynw-Yc/edit?usp=sharing)  
+[Sisäinen kick-off - palaveriesityksen Keynote-pohja](https://drive.google.com/a/geniem.com/file/d/0B_OZw4sEmTtzakZFV2hvazFfYW8/view?usp=sharing) 
 [Kick-off - palaveriesityksen Keynote-pohja](https://drive.google.com/open?id=0B_OZw4sEmTtzWkFpNWVKSU1OMUk)  
-[Vaatimusmäärittely](https://drive.google.com/open?id=1aUEZr80AkhvVQJTsEQTMVYfq_3h44IaDOnTAbA3id8I) tai [Laaja vaatimusmäärittely](https://drive.google.com/open?id=1dJZqP0R6k4Vg09scmHYFzJCpkWWEj4CXCOlj9uXaAv0) (riippuen projektin koosta)  
+[Vaatimusmäärittely](https://drive.google.com/open?id=1aUEZr80AkhvVQJTsEQTMVYfq_3h44IaDOnTAbA3id8I) tai [Laaja vaatimusmäärittely](https://drive.google.com/open?id=1dJZqP0R6k4Vg09scmHYFzJCpkWWEj4CXCOlj9uXaAv0) (riippuen projektin koosta) 
 [Budjettiraami ja laskutus](https://drive.google.com/open?id=12WEg3fSyhLp1jBrKvHTUctboPESgCjLfneZyWQ8XsXo)  
 [Muutostenhallinta](https://drive.google.com/open?id=1_piMjSLH5GtMKjFLguLR_cY2gmI4q4SIRwkl7Ec8vMI)  
-[Testaussuunnitelma - sisältää kaikki sisäisen testauksen vaiheet](https://docs.google.com/a/geniem.com/spreadsheets/d/1QLYGZZ6QZIN3mDb9I0RHFzCsT5OkUFuz_jb4MrnKZ2U/edit?usp=sharing)  
 
 Tiedostojen nimien alkuun muokataan projektin nimi, esimerkiksi xxx_Käyttäjäpersoona -> ProjektinNimi_Käyttäjäpersoona.
 
