@@ -59,26 +59,34 @@ Tavoite:
 
 ### Kehitystiimin päivittäinen statuscheck
 
-**Kesto:** n.15min  
-**Ketä on paikalla:** projektipäällikkö + kehitystiimi
+**Milloin:** joka päivä aikavälillä klo 13-14
+**Kesto:** max 1h
+**Ketä on paikalla:** projektipäällikkö + kehitystiimi + lead developer. 
 
-Mitä:
-- koko tiimi kokoontuu ja puhuu keskenään.
-- pyritään pitämään samaan aikaan joka päivä
-
-jokainen vastaa seuraaviin kysymyksiin:
-- Mitä teit eilen?
-- Mitä aiot tehdä tänään?
-- Mitä ongelmia/kysyttävää?
-- Lisäksi muut ajankohtaiset/selvitettävät asiat
+Jos lead developer on leadina useammassa projektissa, eri projektien kehittäjät kokoontuvat eri aikoina välillä klo 13-14. Lead developer hoitaa aikataulutuksen.
 
 Tarkoitus:
+- yhdistetty "daily meetup" + lead developerin päivittäinen statuscheck
 - tiedonjako
 - ongelmat ja esteet selville
 
-Projektipäällikkö päättää projektikohtaisesti onko tarvetta/mahdollisuutta pitää statuscheck joka päivä. Vaihtoehtoisesti sovitaan tietyt päivät viikosta.
+Mitä:
+- koko tiimi kokoontuu ja puhuu keskenään.
+- jos todetaan ettei ole asiaa -> suoraan jatkamaan töitä
 
-Projektipäällikkö lähettää kehittäjille kalenterikutsun statuscheckeistä.
+Osa 1: Projektin pääkohdat läpi
+	- mitä teit eilen
+	- mitä aiot saavuttaa seuraavaan statuscheckiin mennessä
+	- Jira board
+	- ollaanko aikataulussa
+	- ongelmat/asiat jotka projektipäällikkö voi selvittää
+ 
+Osa 2: Lead developerin check kehittäjille
+- projektipäällikkö saa poistua tässä vaiheessa
+- käydään läpi tehdyt taskit ja niiden ratkaisumallit
+- onko teknisiä ongelmia
+
+Lead developer lähettää kehittäjille kalenterikutsun statuscheckeistä. Kutsu toistumaan joka arkipäivä.
 
 
 ### Design katselmointi
