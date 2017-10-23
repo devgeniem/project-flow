@@ -31,9 +31,6 @@ Tiimi on vastuussa kollektiivisesti issueista ja niiden valmistumisesta. Muita k
 -- testausohje lisätty taskiin
 -- tunnit logattu taskiin
 
-### Code review
-- koodi on arvioitavana lead devaajalla
-
 ### Pending
 - on jokin este, jonka vuoksi issueta ei voi edistää (esim. puuttuu tietoa asiakkaalta, tai issue odottaa toisen devaajan työpanosta, tai kaksi issueta joista toinen odottaa toisen valmistumista)
 - lisää kommentti miksi pending, mitä odotetaan, keneltä
@@ -51,7 +48,10 @@ Tiimi on vastuussa kollektiivisesti issueista ja niiden valmistumisesta. Muita k
 - lisää tarvittaessa testausohjeet issueeseen, esim jos pitää testata kirjautumista -> testitunnukset
 - projari/testaaja käy tästä läpi issuet. testataan stagelta
 - jos jotain vikaa/paranneltavaa -> kommenttiin "Rework: “ + selitys mitä pitää tehdä. sen jälkeen siirto Reworkkiin
-- jos issue ok, siirto Ready for Live
+- jos issue ok, siirto Code review
+
+### Code review
+- koodi on arvioitavana lead devaajalla
 
 ### Ready for Live
 - issuet on testattu ja ne saa deployata tuotantoversioon
@@ -86,9 +86,6 @@ Jatkokehitysprojekteissa on käytössä Kanban board. Kanbanin käyttöä jatkok
 - parhaillaan teossa olevat issuet
 - otat yhden issuen työn alle, teet sen, ja sitten seuraava. ei roikoteta tässä montaa issueta. Jos taskin eteneminen pysähtyy jostain syystä, siirrä issue Pending-tilaan ja kirjaa syy kommenttiin.
 
-### Code review
-- koodi on arvioitavana lead devaajalla
-
 ### Pending
 
 - on jokin este, jonka vuoksi issueta ei voi edistää (esim. puuttuu tietoa asiakkaalta, tai issue odottaa toisen devaajan työpanosta, tai kaksi issueta joista toinen odottaa toisen valmistumista)
@@ -108,7 +105,10 @@ Jatkokehitysprojekteissa on käytössä Kanban board. Kanbanin käyttöä jatkok
 - lisää tarvittaessa testausohjeet issueeseen, esim jos pitää testata kirjautumista -> lisää testitunnukset
 - testaaja käy tästä läpi issuet. testataan stagelta
 - jos jotain vikaa/paranneltavaa -> kommenttiin "Rework: “ + selitys mitä pitää tehdä. sen jälkeen siirto Reworkkiin
-- jos issue ok, siirto Ready for Review
+- jos issue ok, siirto Code Review
+
+### Code review
+- koodi on arvioitavana lead devaajalla
 
 ### Ready for Review
 
