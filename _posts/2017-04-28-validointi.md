@@ -22,12 +22,6 @@ Valmista konseptia ja suunnitelmaa peilataan ensimmäisen vaiheen vaatimuksiin j
 Projektipäällikkö  
 Kehittäjä
 
-## Tekninen validointi
-
-Dev Lead varmistaa, että konsepti on teknisesti toteutettavissa valituilla teknologioilla.
-
-**Tarvittavat roolit:**  
-Dev Lead
 
 ## Liittyvät tiedostot:
 
