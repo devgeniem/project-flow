@@ -21,7 +21,7 @@ Valmista konseptia ja suunnitelmaa peilataan ensimmäisen vaiheen vaatimuksiin j
 **Tarvittavat roolit:**  
 Projektipäällikkö  
 Kehittäjä
-
+Service Designer
 
 ## Liittyvät tiedostot:
 
